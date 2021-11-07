@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/425373870.svg)](https://zenodo.org/badge/latestdoi/425373870)
+*To cite this material*
+
 # Arctic Wildlife Adoption Program
 ## [wwww.gis4-wildlife.com](wwww.gis4-wildlife.com)
 
