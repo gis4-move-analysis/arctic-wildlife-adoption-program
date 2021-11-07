@@ -1,9 +1,9 @@
 # Arctic Wildlife Adoption Program
 ## wwww.gis4-wildlife.com
 
-This Repo contains the webmaps developed at the Cassini Hackathon 2021, in Finland. Project "Wildlife Tracker for Arctic: Initiative of Arctic wildlife adoption program". It focuses in the adoptions of Arctic wildlife from society. Peoplace can access to purchase tags and place them on animals that are migrating to the Artic each year. The purpose is to promote the wildlife protection and the safety of these animals in their migration routes.
+This Repo contains the webmaps developed at the Cassini Hackathon 2021, in Finland. Project "Wildlife Tracker for Arctic: Initiative of Arctic wildlife adoption program". It focuses in the adoptions of Arctic wildlife from society. People can access to purchase tags and place them on animals that are migrating to the Artic each year. The purpose is to promote the wildlife protection and the safety of these animals in their migration routes.
 
-Wildlife Tracker platform is able to track animals in real time visibility. It is connected to a database that receives live feeds from Satellite. Additionally, the visualization framework is updated each 15 minutes to keep visualization always up to date. As special features it contains a geofence alarm. The geofence can selected from client and it can be used when wildlife is entering to high pressure fishery zone or going out of their marine sanctuary. In case you want to know more and see online demos contact us in your website.
+Wildlife Tracker platform is able to track animals in real time visibility. It is connected to a database that receives live feeds from **satellite constellations like Argos, Icarus, Iridium, GSM, and Galileo GNSS**. Additionally, the visualization framework is updated each 15 minutes to keep visualization always up to date. As special features it contains a geofence alarm. The geofence can selected from client and it can be used when wildlife is entering to high pressure fishery zone or going out of their marine sanctuary. In case you want to know more and see online demos contact us in your website.
 
 If you have credentials to Wildlife Tracker you can access directly to the Wildlife Tracker Community version in the next link:
 
