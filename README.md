@@ -4,7 +4,7 @@
 # Arctic Wildlife Adoption Program
 ## [wwww.gis4-wildlife.com](wwww.gis4-wildlife.com)
 
-![initiative](root/wildlife-artic.png)
+![initiative](root/wildlife-arctic.png)
 
 This Repo contains the webmaps developed at the Cassini Hackathon 2021, in Finland. Project "Wildlife Tracker for Arctic: Initiative of Arctic wildlife adoption program". It focuses in the adoptions of Arctic wildlife from society. People can access to purchase tags and place them on animals that are migrating to the Artic each year. The purpose is to promote the wildlife protection and the safety of these animals in their migration routes.
 
