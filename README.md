@@ -27,6 +27,6 @@ This demo contains the visualization of the Wildlife Tracker Administration vers
 
 ![m3](root/m3-arctic-gif.gif)
 
-![availability](root/root/m3-model-map.png)
+![availability](root/m3-model-map.png)
 
 ![availability2](root/nview-map.png)
