@@ -4,9 +4,13 @@
 # Arctic Wildlife Adoption Program
 ## [wwww.gis4-wildlife.com](wwww.gis4-wildlife.com)
 
+![initiative](root/wildlife-artic.png)
+
 This Repo contains the webmaps developed at the Cassini Hackathon 2021, in Finland. Project "Wildlife Tracker for Arctic: Initiative of Arctic wildlife adoption program". It focuses in the adoptions of Arctic wildlife from society. People can access to purchase tags and place them on animals that are migrating to the Artic each year. The purpose is to promote the wildlife protection and the safety of these animals in their migration routes.
 
 The conservation of wildlife is done by a blue economic circular model developed by Wildlife Tracker team during the Hackathon. The cycle starts when citizens or research labs purchase tags for wildlife. Wildlife Tracker access to services from coastal communities by contracting their services to install the devices on animals. Then the cycle continue when Wildlife Tracker Community access to platform with their adopted animal and can follow their migration routes. This data as input complement the next stage which is the database of Wildlife Tracker Administration. Authorities can use the Administration Version to promote the creation of Marine Protected Areas and Wildlife observation tourism, as well as controlling th illegal Fishery and collision. The cycle is closed when citizens can access to this new delimitation of Protected Areas assessed by Wildlife Tracker platform.
+
+![model](root/model.jpeg)
 
 Wildlife Tracker platform is able to track animals in real time visibility. It is connected to a database that receives live feeds from **satellite constellations like Argos, Icarus, Iridium, GSM, and Galileo GNSS**. Additionally, the visualization framework is updated each 15 minutes to keep visualization always up to date. As special features it contains a geofence alarm. The geofence can selected from client and it can be used when wildlife is entering to high pressure fishery zone or going out of their marine sanctuary. In case you want to know more and see online demos contact us in your website.
 
