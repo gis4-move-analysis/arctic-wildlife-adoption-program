@@ -30,3 +30,8 @@ This demo contains the visualization of the Wildlife Tracker Administration vers
 ![availability](root/m3-model-map.png)
 
 ![availability2](root/nview-map.png)
+
+# References
+[Graser. M3 Model](https://www.tandfonline.com/doi/abs/10.1080/13658816.2020.1776293)
+[Lydersen. Fin Whales](https://www.nature.com/articles/s41598-020-73996-zhttps://www.nature.com/articles/s41598-020-73996-z)
+[Silva. Great Whales](https://www.researchgate.net/publication/260996651_Assessing_Performance_of_Bayesian_State-Space_Models_Fit_to_Argos_Satellite_Telemetry_Locations_Processed_with_Kalman_Filtering)
