@@ -21,17 +21,17 @@ If you have credentials to Wildlife Tracker you can access directly to the Wildl
 If you want to know about the admin version feel free to send a message to us.
 If you don't have Wildlife Tracker credentials you can open web maps as products of the geo-frameworks.
 
-# Wildlife Tracker Community (Web map product)
+# (Wildlife Tracker Community (Web map product))[https://gis4-move-analysis.github.io/arctic-wildlife-adoption-program/root/Great_Fin_adopted_index-True.html]
 This demo contains the visualization of the Wildlife Tracker Community version. It has 5 Whales adopted that migrate to the Artic Region through the Norwegian Sea and Greenland. The Great Whales started their journey in Azores Islands and Fin Whales started from Arctic untill Coastal Portugal.
 
 ![community](root/adopt-arctic-gif.gif)
 
-# Wildlife Tracker Administration (Web map product)
+# (Wildlife Tracker Administration (Web map product))[https://gis4-move-analysis.github.io/arctic-wildlife-adoption-program/root/Great_Fin_norm_index-True.html]
 This demo contains the visualization of the Wildlife Tracker Administration version. It has 33 Whales in total from the Administration side. The idea is that adminsitrative version keeps track of all the wildlife individuals adopted by community. 15 Great Whales starting their journey from Azores Islands and 18 Fin Whales starting from North to Coastal Portugal
 
 ![admin](root/norm-arctic-gif.gif)
 
-# Wildlife Tracker Administration + M3 ship data agreggation model (Web map product)
+# (Wildlife Tracker Administration + M3 ship data agreggation model (Web map product))[https://gis4-move-analysis.github.io/arctic-wildlife-adoption-program/root/Great_Fin_m3Model_index-True.html]
 This demo contains the visualization of the Wildlife Tracker Administration version. It has 33 Whales and an additional layer that reflects the the intensity of Fishery Activity. The model aggregate trajectory data into a point grid that shows where and in how much intensity the ships stop in ocean to fish. In orange color, you will see the areas where Fishing Industry is taking activity in ocean and how it overlaps with whales migration routes. The zone computed is only for Norwegian Sea but the optimistic plan is to complete this model processing to the whole Arctic Region in real time approach.
 
 ![m3](root/m3-arctic-gif.gif)
@@ -41,6 +41,6 @@ This demo contains the visualization of the Wildlife Tracker Administration vers
 ![availability2](root/nview-map.png)
 
 # References
-- [Graser. M3 Model](https://www.tandfonline.com/doi/abs/10.1080/13658816.2020.1776293)
-- [Lydersen. Fin Whales](https://www.nature.com/articles/s41598-020-73996-zhttps://www.nature.com/articles/s41598-020-73996-z)
-- [Silva. Great Whales](https://www.researchgate.net/publication/260996651_Assessing_Performance_of_Bayesian_State-Space_Models_Fit_to_Argos_Satellite_Telemetry_Locations_Processed_with_Kalman_Filtering)
+- [Graser, 2020. M3 Model](https://www.tandfonline.com/doi/abs/10.1080/13658816.2020.1776293)
+- [Lydersen, 2020 Fin Whales](https://www.nature.com/articles/s41598-020-73996-z)
+- [Silva, 2014 Great Whales](https://www.researchgate.net/publication/260996651_Assessing_Performance_of_Bayesian_State-Space_Models_Fit_to_Argos_Satellite_Telemetry_Locations_Processed_with_Kalman_Filtering)
