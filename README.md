@@ -14,7 +14,7 @@ The conservation of wildlife is done by a blue economic circular model developed
 
 Wildlife Tracker platform is able to track animals in real time visibility. It is connected to a database that receives live feeds from **satellite constellations like Argos, Icarus, Iridium, GSM, and Galileo GNSS**. As special features it contains a geofence alarm and movement analysis algorithms. The geofence can be chosen from client and it can be used when wildlife is entering to high pressure fishery zone or going out of their marine sanctuary. In case you want to know more and see online demos contact us in your website. [www.gis4-wildlife.com](www.gis4-wildlife.com)
 
-# Wildlife Tracker Community - Online demo (reserved)
+# [Wildlife Tracker Community - Online demo (video)](https://www.youtube.com/watch?v=otLI02FCKWs)
 The client version requires Wildlife Tracker Community credentials. Be in touch if you want to see online demos of Community or Administrative version.
 
 If you want to know about the admin version feel free to send a message to us.
