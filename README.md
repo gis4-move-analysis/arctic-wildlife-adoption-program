@@ -16,7 +16,7 @@ Wildlife Tracker platform is able to track animals in real time visibility. It i
 
 If you have credentials to Wildlife Tracker you can access directly to the Wildlife Tracker Community version in the next link:
 
-# [Wildlife Tracker Community - Online demo](https://share.streamlit.io/bryanvallejo16/wildlife-tracker-adoption-0.1/main/gis4-adoption.py)
+# Wildlife Tracker Community - Online demo (reserved)
 The client version requires Wildlife Tracker Community credentials. Be in touch if you want to see online demos of Community or Administrative version.
 
 If you want to know about the admin version feel free to send a message to us.
